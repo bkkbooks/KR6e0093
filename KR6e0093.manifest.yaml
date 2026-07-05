@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0093_000.yaml, hash: 'sha256:ff8867c9836efbaef76a52c49fcb546ea4dba8ebf9c6fdfdf0589da60a95ff1b'}
-  - {seq: 1, filename: KR6e0093_001.yaml, hash: 'sha256:1919b868192d7055ee0348a37cfd15d2a2b50c62ae53bc220bc3af123ec3e468'}
+  - {seq: 0, filename: KR6e0093_000.yaml, hash: 'sha256:6cb9cd6e35c74099f96d1d59411cc533bb2fd68924233457b187dfbcfa2b67f1'}
+  - {seq: 1, filename: KR6e0093_001.yaml, hash: 'sha256:0d3f41282f4fc824297d1fb3f51afc2678512a8ee2844e42caaed0f3eb07a6a5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0093_000.markers.yaml, hash: 'sha256:0c60b94da10711f592713f7c19a12dcb2abd5f3d29e6f84746adc173cfc3af4c'}
-  - {seq: 1, role: markers, filename: assets/KR6e0093_001.markers.yaml, hash: 'sha256:e8443d06449835b4d39dbfe07b6fcbedca2a7af92bdb3c663f2cfbd48c755077'}
+  - {seq: 0, role: markers, filename: assets/KR6e0093_000.markers.yaml, hash: 'sha256:0293c2a9dec39b7733e715ecce128b880691fbc15e240f5d2ef297c758569813'}
+  - {seq: 1, role: markers, filename: assets/KR6e0093_001.markers.yaml, hash: 'sha256:8de08eacf3327c157e414ec420bb6df354b5519a70b2da031c7e517b31e83adb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -60,7 +60,4 @@ table_of_contents:
   label: 華嚴遊心法界記
   type: juan
   level: 1
-hash: sha256:5da886a0270ae156ba61b78194bb566b421a2c9e1e5f92741969dea46b461c36
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9ce709442d38e8a8224e7ae35e1856e5f861529eb2d115d306b44aecd90e19d1
