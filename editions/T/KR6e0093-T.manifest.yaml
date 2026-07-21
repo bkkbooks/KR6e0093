@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0093_000-T.yaml, hash: 'sha256:6cb9cd6e35c74099f96d1d59411cc533bb2fd68924233457b187dfbcfa2b67f1'}
+  - {seq: 0, filename: KR6e0093_000-T.yaml, hash: 'sha256:246cc13156259ab0abb42aea0bd7a59f8e9b3710d8928cc71f6817ab88e2c70a'}
   - {seq: 1, filename: KR6e0093_001-T.yaml, hash: 'sha256:0d3f41282f4fc824297d1fb3f51afc2678512a8ee2844e42caaed0f3eb07a6a5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0093_000-T.markers.yaml, hash: 'sha256:0219c25370a7852aefe0f0a848c0231f0716fd4aafb9ba363094c99e03c6f1d7'}
+  - {seq: 0, role: markers, filename: assets/KR6e0093_000-T.markers.yaml, hash: 'sha256:aeb00015d9c9067d67284f2c1b8a22ce2495562da267c3d8e31e08a8ef2fcb6e'}
   - {seq: 1, role: markers, filename: assets/KR6e0093_001-T.markers.yaml, hash: 'sha256:ab7cd0d5cbb8921cc8e2d9eb9cec743ce1853b74cd0e50ffb03996cdb69b4153'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0093_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 剏鐫華嚴遊心法界記序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0093_T_000-mulu-2
     span:
-    - front
+    - body
     - 936
     - 936
   label: 華嚴遊心法界記序
@@ -55,4 +55,4 @@ table_of_contents:
   label: 華嚴遊心法界記
   type: juan
   level: 1
-hash: sha256:e597c20a507463c773760646ca40730341df01b86348d44034b9e161436b2aad
+hash: sha256:f572cdee632a33dae64f030805093f370eeaaefc31f81bfeafbeae6babc29337
